@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/KHOLKIN-V/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://KHOLKIN-V.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://KHOLKIN-V.github.io/goit-js-hw-11-color-switch#index.html",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
